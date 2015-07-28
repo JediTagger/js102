@@ -1,0 +1,7 @@
+#put :nth-child(even) {
+	color: red;
+}
+
+#put :nth-child(odd) {
+	background-color: azure;
+}
